@@ -9,6 +9,18 @@ A modern web application for tracking and managing the FDU Student Managed Inves
 - Detailed stock information
 - Interactive data grid
 - Dark mode interface
+- **Cost Basis and Price Cost Basis columns**
+- **Unrealized Gain/Loss and Gain/Loss % columns**
+- **Color coding for performance and gain/loss columns (green for positive, red for negative)**
+- **Hybrid styling with Material-UI and Tailwind CSS**
+
+## Holdings Table Columns
+
+- **Price Cost Basis**: The per-share purchase price.
+- **Cost Basis**: Total cost basis (shares × purchase price), formatted with commas.
+- **Unrealized Gain/Loss**: Dollar gain/loss, green if positive, red if negative.
+- **Gain/Loss %**: Percentage gain/loss, green if positive, red if negative.
+- **Performance Columns**: Since Inception, YTD, and Week-over-Week, all color-coded.
 
 ## Getting Started
 
