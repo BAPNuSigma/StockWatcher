@@ -1,6 +1,6 @@
-# FDU Student Managed Investment Fund Dashboard
+# Student Managed Investment Fund Dashboard
 
-A modern web application for tracking and managing the FDU Student Managed Investment Fund portfolio.
+A modern web application for tracking and managing your Student Managed Investment Fund portfolio.
 
 ## Features
 
