@@ -27,6 +27,8 @@ export interface Stock {
   marketCap: number;
   priceToEarnings: number;
   beta: number;
+  priceLastWeek?: number;
+  priceJan1?: number;
 }
 
 export interface Portfolio {

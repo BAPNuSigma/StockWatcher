@@ -26,7 +26,7 @@ function App() {
           <AppBar position="static">
             <Toolbar>
               <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                FDU SMIF Stock Watcher
+                FDU Student Managed Investment Fund
               </Typography>
               <Button color="inherit" component={Link} to="/growth">
                 Growth Portfolio
